@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            var x=100;
+            function fun(){
+                var x=10;
+                document.write("inside fun x = "+x);
+            }
+            function f(){
+                document.write("inside f x = "+x);
+            }
+            fun();
+            document.write("<br />");
+            f();
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>
