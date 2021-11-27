@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            function fun(x,y){
+                return x+y;
+            }
+            var x=fun(10,20);
+            document.write("x="+x);
+        </script>
+    </head>
+</html>
