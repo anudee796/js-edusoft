@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            function abc(){
+                document.write("hello world");
+            }
+            abc();
+        </script>
+    </head>
+</html>
