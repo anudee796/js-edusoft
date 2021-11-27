@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            var x=10;
+            if(x==10){
+                document.write("x is 10");
+            }else{
+                document.write("x!=10");
+            }
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>
