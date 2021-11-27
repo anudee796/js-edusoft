@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            function book(title,author){
+                this.title=title;
+                this.author=author;
+            }
+            var mybook=new book("anudeep","kasu");
+            document.write("name is "+mybook.title+"<br>");
+            document.write("author is "+mybook.title);
+        </script>
+    </head>
+</html>
