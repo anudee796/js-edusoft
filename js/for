@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            var x;
+            for(x=1;x<=10;x++){
+                document.writeln(x);
+            }
+        </script>
+    </head>
+</html>
