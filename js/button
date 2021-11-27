@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            function hello(){
+                document.write("hello sir");
+            }
+        </script>
+    </head>
+    <body>
+        <input type="button" onclick="hello()" value="click here">
+    </body>
+</html>
