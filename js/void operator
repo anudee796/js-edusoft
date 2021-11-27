@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            var x,y,z;
+            x=void(y=1,z=2);
+            document.write("x="+x+" y="+y+" z="+z);
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>
