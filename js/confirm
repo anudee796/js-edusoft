@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            var x;
+            x=confirm("do you want to quit");
+            if(x==1){
+                alert("yes he want to quit\n");
+            }else{
+                alert("yes he dont want to quit\n");
+            }
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>
