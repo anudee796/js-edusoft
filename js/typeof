@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <script type="text/javascript">
+            var x=10,y="anudeep";
+            document.write(typeof x);
+             document.write("<br />");
+            document.write(typeof y);
+            
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>
